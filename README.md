@@ -11,8 +11,10 @@ https://github.com/cnduffield/MADWorkshop/blob/main/pom.xml
 
 # Notes for Mod 5
 Make sure all the pods are started. 
-Restart  activity-tracking
-Restart  recommendation-engine
-Restart  activity-tracking-simulator
+* Restart  activity-tracking
+* Restart  recommendation-engine
+* Restart  activity-tracking-simulator
 
-#Notes for mod 7
+# Notes for mod 7
+<img width="1201" alt="Pasted Graphic 1" src="https://github.com/cnduffield/MADWorkshop/assets/16171877/75a794a9-93f7-4a02-94c6-f69342347943">
+

@@ -1,7 +1,9 @@
 # Helpful Links
 https://kubebyexample.com/ <br>
 https://developers.redhat.com/ <br>
-https://docs.openshift.com/container-platform/4.16/welcome/index.html
+https://docs.openshift.com/container-platform/4.16/welcome/index.html <br>
+https://developers.redhat.com/products/mta/overview <br>
+https://developers.redhat.com/articles/2023/10/19/containerize-spring-boot-application-podman-desktop#prerequisites
 
 # Modules used
 <img width="465" alt="Modules" src="https://github.com/cnduffield/MADWorkshop/assets/16171877/0069b6ed-4504-46db-b92b-006988b553dc">

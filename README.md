@@ -15,7 +15,7 @@ https://github.com/windup
 # Notes for Mod 2
 https://github.com/cnduffield/MADWorkshop/blob/main/PersistenceConfig.java
 https://github.com/cnduffield/MADWorkshop/blob/main/persistense.properties.txt
-https://github.com/cnduffield/MADWorkshop/blob/main/pom.xml
+https://github.com/cnduffield/MADWorkshop/blob/main/pom.xml <be>
 Make sure you put a comment in your git commit
 ![image](https://github.com/user-attachments/assets/35a16a40-c5db-4640-9c46-94e3d4fd6939)
 

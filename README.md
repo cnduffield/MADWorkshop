@@ -1,7 +1,7 @@
 # Helpful Links
-https://kubebyexample.com/
-
-https://developers.redhat.com/
+https://kubebyexample.com/ <br>
+https://developers.redhat.com/ <br>
+https://docs.openshift.com/container-platform/4.16/welcome/index.html
 
 # Modules used
 <img width="465" alt="Modules" src="https://github.com/cnduffield/MADWorkshop/assets/16171877/0069b6ed-4504-46db-b92b-006988b553dc">

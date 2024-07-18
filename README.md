@@ -16,6 +16,8 @@ https://github.com/windup
 https://github.com/cnduffield/MADWorkshop/blob/main/PersistenceConfig.java
 https://github.com/cnduffield/MADWorkshop/blob/main/persistense.properties.txt
 https://github.com/cnduffield/MADWorkshop/blob/main/pom.xml
+Make sure you put a comment in your git commit
+![image](https://github.com/user-attachments/assets/35a16a40-c5db-4640-9c46-94e3d4fd6939)
 
 # Notes for Mod 5
 Make sure all the pods are started. 

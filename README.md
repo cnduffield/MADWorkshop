@@ -3,7 +3,8 @@ https://kubebyexample.com/ <br>
 https://developers.redhat.com/ <br>
 https://docs.openshift.com/container-platform/4.16/welcome/index.html <br>
 https://developers.redhat.com/products/mta/overview <br>
-https://developers.redhat.com/articles/2023/10/19/containerize-spring-boot-application-podman-desktop#prerequisites
+https://developers.redhat.com/articles/2023/10/19/containerize-spring-boot-application-podman-desktop#prerequisites <br>
+https://developers.redhat.com/articles/2023/06/09/deploy-and-test-kubernetes-containers-using-podman-desktop#deploy_your_application_to_the_openshift_cluster
 
 # Modules used
 <img width="465" alt="Modules" src="https://github.com/cnduffield/MADWorkshop/assets/16171877/0069b6ed-4504-46db-b92b-006988b553dc">
